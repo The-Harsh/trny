@@ -4,6 +4,10 @@ const balanceKeywords = [
   'a/c bal',
   'available bal',
   'avl bal',
+  'Bal ',
+  'bal ',
+  'balance',
+  'Balance',
 ];
 const trnKeywords = ['debited', 'credited', 'payment', 'spent'];
 
